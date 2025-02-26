@@ -1,0 +1,9 @@
+Package: com.idd.macdock
+Name: mac dock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: turn iOS dock into Mac dock 
+Maintainer: freeappl3
+Author: freeappl3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
